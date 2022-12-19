@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![WildPasta's GitHub stats](https://github-readme-stats.vercel.app/api?username=WildPasta&show_icons=true&theme=transparent)
+![WildPasta's GitHub stats](https://github-readme-stats.vercel.app/api?username=WildPasta&show_icons=true&theme=dark)
 
 <!--
 **WildPasta/WildPasta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

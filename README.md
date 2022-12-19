@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+:books: Infosec student @ENSIBS, currently in 5th year
+
+:star2: I'm passionate about programming, forensic and getting hands on new tools
+
+:snake: I mostly use Python and C but look forward to learn Golang
+
+:seedling: I'm learning Packer, Terraform and Ansible to automate a LAN-deployment tool for @donkesport
+
+
 ![WildPasta's GitHub stats](https://github-readme-stats.vercel.app/api?username=WildPasta&show_icons=true&theme=dracula)
 
 <!--

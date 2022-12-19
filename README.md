@@ -6,7 +6,7 @@
 
 :snake: I mostly use Python and C but look forward to learn Golang
 
-:seedling: I'm learning Packer, Terraform and Ansible to automate a LAN-deployment tool for @donkesport
+:construction: Ongoing project : Developping a LAN-deployment tool using Packer, Terraform and Ansible for @donkesport
 
 
 ![WildPasta's GitHub stats](https://github-readme-stats.vercel.app/api?username=WildPasta&show_icons=true&theme=dracula)

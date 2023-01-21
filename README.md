@@ -11,6 +11,16 @@
 
 ![WildPasta's GitHub stats](https://github-readme-stats.vercel.app/api?username=WildPasta&show_icons=true&theme=dracula)
 
+
+<h3>Various techs I use</h3>
+<p>
+  <img alt="python" src="https://img.shields.io/badge/-python-blue?logo=python&logoColor=white"/>  
+  <img alt="ansible" src="https://img.shields.io/badge/-ansible-black?logo=ansible&logoColor=white"/>  
+  <img alt="terraform" src="https://img.shields.io/badge/-terraform-purple?logo=terraform&logoColor=white"/>  
+  <img alt="packer" src="https://img.shields.io/badge/-packer-blue?logo=packer&logoColor=white"/> 
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+</p>
+
 <!--
 **WildPasta/WildPasta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

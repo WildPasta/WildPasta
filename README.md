@@ -47,15 +47,16 @@
   </tbody>
 </table>
 
+
 <h3>Various techs I use</h3>
 <p>
-  <img alt="python" src="https://img.shields.io/badge/-python-blue?logo=python&logoColor=white"/>
-  <img alt="docker" src="https://img.shields.io/badge/-docker-2496ED?logo=docker&logoColor=white"/>
-  <img alt="packer" src="https://img.shields.io/badge/-packer-blue?logo=packer&logoColor=white"/> 
+  <img alt="ansible" src="https://img.shields.io/badge/-ansible-EE0000?logo=ansible&logoColor=white"/>
   <img alt="fortinet" src="https://img.shields.io/badge/-fortinet-EE3124?logo=fortinet&logoColor=white"/>
   <img alt="git" src="https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white"/>
   <img alt="proxmox" src="https://img.shields.io/badge/-proxmox-E57000?logo=proxmox&logoColor=white"/>
-  <img alt="ansible" src="https://img.shields.io/badge/-ansible-black?logo=ansible&logoColor=white"/>  
-  <img alt="terraform" src="https://img.shields.io/badge/-terraform-purple?logo=terraform&logoColor=white"/>  
+  <img alt="packer" src="https://img.shields.io/badge/-packer-02A8EF?logo=packer&logoColor=white"/>
+  <img alt="docker" src="https://img.shields.io/badge/-docker-2496ED?logo=docker&logoColor=white"/>
+  <img alt="python" src="https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white"/>
+  <img alt="terraform" src="https://img.shields.io/badge/-terraform-purple?logo=terraform&logoColor=white"/>
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 </p>

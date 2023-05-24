@@ -9,7 +9,7 @@
 :construction: Ongoing project : Getting hands on web scraping
 
 
-![WildPasta's GitHub stats](https:/github-readme-stats-sigma-five.vercel.app/api?username=WildPasta&show_icons=true&theme=dracula)
+![WildPasta's GitHub stats](https:/github-readme-stats.vercel.app/api?username=WildPasta&show_icons=true&theme=dracula)
 
 <h3>Open source projects</h3>
 <table>

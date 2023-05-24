@@ -6,7 +6,7 @@
 
 :snake: I mostly use Python and C but look forward to learn Golang
 
-:construction: Ongoing project : Developping a LAN-deployment tool using Packer, Terraform and Ansible for @donkesport
+:construction: Ongoing project : Getting hands on web scraping
 
 
 ![WildPasta's GitHub stats](https://github-readme-stats.vercel.app/api?username=WildPasta&show_icons=true&theme=dracula)

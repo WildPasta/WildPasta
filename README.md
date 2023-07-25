@@ -4,9 +4,11 @@
 
 :star2: I'm passionate about programming, forensic and getting hands on new tools
 
-:snake: I mostly use Python and C but look forward to learn Golang
+:snake: I mostly use Python and C
 
-:construction: Ongoing project : Getting hands on web scraping
+:computer: I have few home servers at home to create my own testing environments
+
+:construction: Ongoing project : Dockerizing my projects and create a blog
 
 
 ![WildPasta's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=WildPasta&show_icons=true&theme=dracula)

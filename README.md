@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-:books: Infosec student @ENSIBS, currently in 5th year
+:books: Former infosec student @ENSIBS
 
 :star2: I'm passionate about programming, forensic and getting hands on new tools
 
-:snake: I mostly use Python and C
+:snake: I mostly use Python and working my way toward Rust
 
 :computer: I have few home servers at home to create my own testing environments
 
-:construction: Ongoing project : Dockerizing my projects and create a blog
+:construction: Ongoing project : Dockerizing my projects and learning Rust
 
 
 ![WildPasta's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=WildPasta&show_icons=true&theme=dracula)

@@ -1,17 +1,21 @@
-### Hi there 👋
+<h1 align="center"> Hi there 👋 </h1>
 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&width=435&lines=Forensics+%7C+Programming+%7C+CTFer.io;Cyberdefense+Engineer" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=WildPasta&show_icons=true&theme=dracula"/>
+</p>
+
+  
 :books: Former infosec student @ENSIBS
 
-:star2: I'm passionate about programming, forensic and getting hands on new tools
+:star2: Passionate about programming, forensic and getting hands on new tools
 
-:snake: I mostly use Python and working my way toward Rust
+:computer: Homelab and testing environment at home
 
-:computer: I have few home servers at home to create my own testing environments
-
-:construction: Ongoing project : Dockerizing my projects and learning Rust
-
-
-![WildPasta's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=WildPasta&show_icons=true&theme=dracula)
+:construction: Ongoing project : Learning about Windows artifacts and supporting [CTFer.io](https://github.com/ctfer-io)
 
 <h3>Open source projects</h3>
 <table>
@@ -33,12 +37,12 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/donkesport/donk-lan?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/WildPasta/advent_of_code"><b>Advent of code journey</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/WildPasta/advent_of_code?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/WildPasta/advent_of_code?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/WildPasta/advent_of_code?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/WildPasta/advent_of_code?style=flat-square&labelColor=343b41"/></td>
-    </tr>
+      <td><a href="https://github.com/WildPasta/dofus-price-bot"><b>AutoClick Dofus bot</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/WildPasta/dofus-price-bot?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/WildPasta/dofus-price-bot?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/WildPasta/dofus-price-bot?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/WildPasta/dofus-price-bot?style=flat-square&labelColor=343b41"/></td>
+    </tr
     <tr>
       <td><a href="https://github.com/WildPasta/youtube_mp3_downloader"><b>YouTube MP3 downloader</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/WildPasta/youtube_mp3_downloader?style=flat-square&labelColor=343b41"/></td>
@@ -60,13 +64,14 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/WildPasta/discord_bot_chaise?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/WildPasta/discord_bot_chaise?style=flat-square&labelColor=343b41"/></td>
     </tr>
-    <tr>
-      <td><a href="https://github.com/WildPasta/dofus-price-bot"><b>AutoClick Dofus bot</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/WildPasta/dofus-price-bot?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/WildPasta/dofus-price-bot?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/WildPasta/dofus-price-bot?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/WildPasta/dofus-price-bot?style=flat-square&labelColor=343b41"/></td>
+     <tr>
+      <td><a href="https://github.com/WildPasta/advent_of_code"><b>Advent of code journey</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/WildPasta/advent_of_code?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/WildPasta/advent_of_code?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/WildPasta/advent_of_code?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/WildPasta/advent_of_code?style=flat-square&labelColor=343b41"/></td>
     </tr>
+   
 <!--     <tr>
       <td><a href=""><b>Comming soon</b></a></td>
       <td><img alt="Stars" src=""/></td>

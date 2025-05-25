@@ -37,6 +37,13 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/donkesport/donk-lan?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/ctfer-io/24hiut2025"><b>Chall Maker 24HIUT 2025</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/ctfer-io/24hiut2025?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/ctfer-io/24hiut2025?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/ctfer-io/24hiut2025?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ctfer-io/24hiut2025?style=flat-square&labelColor=343b41"/></td>
+    </tr
+    <tr>
       <td><a href="https://github.com/WildPasta/dofus-price-bot"><b>AutoClick Dofus bot</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/WildPasta/dofus-price-bot?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/WildPasta/dofus-price-bot?style=flat-square&labelColor=343b41"/></td>
@@ -63,13 +70,6 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/WildPasta/discord_bot_chaise?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/WildPasta/discord_bot_chaise?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/WildPasta/discord_bot_chaise?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-     <tr>
-      <td><a href="https://github.com/WildPasta/advent_of_code"><b>Advent of code journey</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/WildPasta/advent_of_code?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/WildPasta/advent_of_code?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/WildPasta/advent_of_code?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/WildPasta/advent_of_code?style=flat-square&labelColor=343b41"/></td>
     </tr>
    
 <!--     <tr>

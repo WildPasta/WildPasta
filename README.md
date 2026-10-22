@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=WildPasta&show_icons=true&theme=dracula"/>
+<img src="https://github-stats-extended.vercel.app/api?username=WildPasta&show_icons=true&theme=dracula"/>
 </p>
 
   
